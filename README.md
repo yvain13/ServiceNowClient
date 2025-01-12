@@ -35,9 +35,7 @@ You can run this notebook in **Google Colab** or locally if you have the necessa
    ```
 
 2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   
 
 3. Run the notebook in Colab or your local environment:
    - Upload the notebook to **Google Colab** and start exploring.
@@ -52,9 +50,7 @@ You can run this notebook in **Google Colab** or locally if you have the necessa
 
 The notebook is organized in cells that guide you through each functionality. Check the example outputs to see how to interact with your data!
 
-## Demo Video
 
-Watch the [demo video](link-to-video) to see the functionality in action!
 
 ## Contributing
 
